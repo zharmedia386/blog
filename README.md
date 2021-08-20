@@ -1,2 +1,0 @@
-# blog
-Deployment Repository myBlog
