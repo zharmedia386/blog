@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Gokarna</title>
+    <title>Tags on M Azhar Alauddin</title>
     <link>https://zharmediaBlog.github.io/tags/</link>
-    <description>Recent content in Tags on Gokarna</description>
+    <description>Recent content in Tags on M Azhar Alauddin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Apr 2021 23:39:49 +0530</lastBuildDate><atom:link href="https://zharmediaBlog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zharmediaBlog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>https://zharmediaBlog.github.io/tags/css/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zharmediaBlog.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://zharmediaBlog.github.io/tags/html/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zharmediaBlog.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://zharmediaBlog.github.io/tags/markdown/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zharmediaBlog.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>def</title>
       <link>https://zharmediaBlog.github.io/tags/def/</link>
@@ -49,33 +76,6 @@
       <pubDate>Wed, 06 May 2020 21:29:01 +0800</pubDate>
       
       <guid>https://zharmediaBlog.github.io/tags/installation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://zharmediaBlog.github.io/tags/markdown/</link>
-      <pubDate>Wed, 06 May 2020 21:29:01 +0800</pubDate>
-      
-      <guid>https://zharmediaBlog.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://zharmediaBlog.github.io/tags/css/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zharmediaBlog.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://zharmediaBlog.github.io/tags/html/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zharmediaBlog.github.io/tags/html/</guid>
       <description></description>
     </item>
     
