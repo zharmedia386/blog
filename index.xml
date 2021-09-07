@@ -6,69 +6,48 @@
     <description>Recent content on M Azhar Alauddin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zharmediablog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zharmediablog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme Documentation - Basics</title>
-      <link>https://zharmediablog.netlify.app/posts/theme-documentation-basics/</link>
-      <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
+      <title>Materi Dasar Struktur Data</title>
+      <link>https://zharmediablog.netlify.app/posts/dasar-strukturdata/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zharmediablog.netlify.app/posts/theme-documentation-basics/</guid>
-      <description>Gokarna is an opinionated theme with a focus on minimalism and simplicity.
-Installation The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
-a. Create Your Project Hugo provides a new command to create a new website:
-hugo new site my_website cd my_website b. Install the Theme The theme’s repository is: https://github.</description>
+      <guid>https://zharmediablog.netlify.app/posts/dasar-strukturdata/</guid>
+      <description>Pendahuluan Struktur data adalah suatu metode atau cara dalam menyusun, mengatur serta menyimpan berbagai data yang terdapat dalam suatu penyimpanan dalam sistem komputer. Data ini sendiri bermacam-macam, bisa berbentuk angka, simbol, huruf dan lain sebagainya.
+Istilah struktur data juga berarti cara tertentu dalam menyimpan, mengatur maupun mengorganisir data, baik itu di dalam memori komputer ataupun media penyimpanan eksternal sehingga bisa dimanfaatkan secara efektif dan efisien. Kedua pengertian tersebut adalah definisi struktur data jika didasarkan pada ilmu komputer.</description>
     </item>
     
     <item>
-      <title>Theme Documentation - Advanced</title>
-      <link>https://zharmediablog.netlify.app/posts/theme-documentation-advanced/</link>
-      <pubDate>Wed, 06 May 2020 21:29:01 +0800</pubDate>
+      <title>Mengenal MVC(Model, View, Controller)</title>
+      <link>https://zharmediablog.netlify.app/posts/mvc/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zharmediablog.netlify.app/posts/theme-documentation-advanced/</guid>
-      <description>Gokarna is an opinionated theme with a focus on minimalism and simplicity.
-Content Types This theme supports two types of content types: post and page. To specify them, you need to add them in your markdown metadata.
-Post This is the default blog post type which will be shown in your &amp;ldquo;Posts&amp;rdquo; section and who&amp;rsquo;s tags will be indexed. Basically, a normal blog post.
---- title: &amp;#34;Hello, world!&amp;#34; date: 2021-01-01 description: &amp;#34;A blog post&amp;#34; image: &amp;#34;path/to/image.</description>
+      <guid>https://zharmediablog.netlify.app/posts/mvc/</guid>
+      <description>Pendahuluan Jika Anda sedang belajar coding, Anda pasti sudah tak asing dengan yang namanya framework. Saat ini hampir semua framework populer, seperti framework laravel, sudah menggunakan konsep MVC untuk pengembangan website.
+MVC sendiri merupakan pola desain arsitektur website yang terbagi menjadi tiga bagian, yaitu model, view, dan controller. Konsep ini diyakini bisa mengefektifkan proses pembuatan website.
+Nah, seperti apa sih penjelasan lebih detail mengenai MVC? Tenang, kami akan membahasnya di artikel ini pada bab berikutnya.</description>
     </item>
     
     <item>
-      <title>Groovy adsa</title>
-      <link>https://zharmediablog.netlify.app/posts/first_post/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Pentingnya Website untuk Branding Bisnis Online</title>
+      <link>https://zharmediablog.netlify.app/posts/manfaat-web/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zharmediablog.netlify.app/posts/first_post/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://zharmediablog.netlify.app/posts/manfaat-web/</guid>
+      <description>Pendahuluan Anda baru saja membangun brand untuk produk baru? Sudahkah brand anda memiliki website? Jika belum, ayo buat website sekarang, banyak keuntungan yang anda dapatkan terutama dari segi promosi. Ingin tahu apa saja keuntungan yang akan anda dapat dari membuat website?
+Berikut 8 Alasan kenapa Bisnis Online Wajib punya Website :
+1. Menampilkan Informasi Secara Detail Website merupakan media promosi (penjualan) online yang mampu menampilkan informasi yang lebih lengkap dibanding media lainnya.</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://zharmediablog.netlify.app/posts/markdown-syntax/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <title>WordPress - CMS Terpopuler</title>
+      <link>https://zharmediablog.netlify.app/posts/wordpress/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zharmediablog.netlify.app/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://zharmediablog.netlify.app/posts/emoji-support/</link>
-      <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
-      
-      <guid>https://zharmediablog.netlify.app/posts/emoji-support/</guid>
-      <description>Emoji can be enabled in a Hugo project in a number of ways.
-The emojify function can be called directly in templates or Inline Shortcodes.
-To enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.
-These begin and end with a colon and include the code of an emoji:
-Gone camping! {?:}tent: Be back soon. That is so funny!</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://zharmediablog.netlify.app/posts/lorem-ipsum/</link>
-      <pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate>
-      
-      <guid>https://zharmediablog.netlify.app/posts/lorem-ipsum/</guid>
-      <description>Heading 1 &amp;ldquo;Lorem ipsum dolor sit amet, consectetaur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://zharmediablog.netlify.app/posts/wordpress/</guid>
+      <description>Pendahuluan Jika Anda ingin membuat website, terdapat berbagai cara dan platform yang bisa Anda gunakan. Ada cara yang manual dengan menggunakan coding HTML. Ada juga cara yang lebih mudah, yaitu menggunakan CMS atau Content Management System.
+CMS memudahkan Anda untuk membuat website tanpa perlu memahami coding. Terdapat berbagai CMS untuk membuat website dan WordPress adalah salah satunya.
+Di artikel ini, saya akan membahas mengenai apa itu WordPress, manfaat WordPress, jenis WordPress, dan alasan mengapa Anda harus menggunakan WordPress.</description>
     </item>
     
     <item>

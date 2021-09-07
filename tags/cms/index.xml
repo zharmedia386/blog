@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMS on M Azhar Alauddin</title>
+    <link>https://zharmediablog.netlify.app/tags/cms/</link>
+    <description>Recent content in CMS on M Azhar Alauddin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zharmediablog.netlify.app/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress - CMS Terpopuler</title>
+      <link>https://zharmediablog.netlify.app/posts/wordpress/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zharmediablog.netlify.app/posts/wordpress/</guid>
+      <description>Pendahuluan Jika Anda ingin membuat website, terdapat berbagai cara dan platform yang bisa Anda gunakan. Ada cara yang manual dengan menggunakan coding HTML. Ada juga cara yang lebih mudah, yaitu menggunakan CMS atau Content Management System.
+CMS memudahkan Anda untuk membuat website tanpa perlu memahami coding. Terdapat berbagai CMS untuk membuat website dan WordPress adalah salah satunya.
+Di artikel ini, saya akan membahas mengenai apa itu WordPress, manfaat WordPress, jenis WordPress, dan alasan mengapa Anda harus menggunakan WordPress.</description>
+    </item>
+    
+  </channel>
+</rss>

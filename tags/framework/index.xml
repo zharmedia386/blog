@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>framework on M Azhar Alauddin</title>
+    <link>https://zharmediablog.netlify.app/tags/framework/</link>
+    <description>Recent content in framework on M Azhar Alauddin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zharmediablog.netlify.app/tags/framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengenal MVC(Model, View, Controller)</title>
+      <link>https://zharmediablog.netlify.app/posts/mvc/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zharmediablog.netlify.app/posts/mvc/</guid>
+      <description>Pendahuluan Jika Anda sedang belajar coding, Anda pasti sudah tak asing dengan yang namanya framework. Saat ini hampir semua framework populer, seperti framework laravel, sudah menggunakan konsep MVC untuk pengembangan website.
+MVC sendiri merupakan pola desain arsitektur website yang terbagi menjadi tiga bagian, yaitu model, view, dan controller. Konsep ini diyakini bisa mengefektifkan proses pembuatan website.
+Nah, seperti apa sih penjelasan lebih detail mengenai MVC? Tenang, kami akan membahasnya di artikel ini pada bab berikutnya.</description>
+    </item>
+    
+  </channel>
+</rss>

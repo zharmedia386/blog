@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algoritma on M Azhar Alauddin</title>
+    <link>https://zharmediablog.netlify.app/tags/algoritma/</link>
+    <description>Recent content in Algoritma on M Azhar Alauddin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zharmediablog.netlify.app/tags/algoritma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Materi Dasar Struktur Data</title>
+      <link>https://zharmediablog.netlify.app/posts/dasar-strukturdata/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zharmediablog.netlify.app/posts/dasar-strukturdata/</guid>
+      <description>Pendahuluan Struktur data adalah suatu metode atau cara dalam menyusun, mengatur serta menyimpan berbagai data yang terdapat dalam suatu penyimpanan dalam sistem komputer. Data ini sendiri bermacam-macam, bisa berbentuk angka, simbol, huruf dan lain sebagainya.
+Istilah struktur data juga berarti cara tertentu dalam menyimpan, mengatur maupun mengorganisir data, baik itu di dalam memori komputer ataupun media penyimpanan eksternal sehingga bisa dimanfaatkan secara efektif dan efisien. Kedua pengertian tersebut adalah definisi struktur data jika didasarkan pada ilmu komputer.</description>
+    </item>
+    
+  </channel>
+</rss>
