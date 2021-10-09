@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zharmediablog.netlify.app/posts/machinelearningpath/</loc>
+    <lastmod>2021-10-08T17:55:28+08:00</lastmod>
+  </url><url>
     <loc>https://zharmediablog.netlify.app/posts/dasar-strukturdata/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,6 +17,21 @@
     <loc>https://zharmediablog.netlify.app/posts/wordpress/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://zharmediablog.netlify.app/tags/data-science/</loc>
+    <lastmod>2021-10-08T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://zharmediablog.netlify.app/</loc>
+    <lastmod>2021-10-08T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://zharmediablog.netlify.app/tags/machine-learning/</loc>
+    <lastmod>2021-10-08T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://zharmediablog.netlify.app/posts/</loc>
+    <lastmod>2021-10-08T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://zharmediablog.netlify.app/tags/</loc>
+    <lastmod>2021-10-08T17:55:28+08:00</lastmod>
+  </url><url>
     <loc>https://zharmediablog.netlify.app/tags/algoritma/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,16 +41,7 @@
     <loc>https://zharmediablog.netlify.app/tags/framework/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zharmediablog.netlify.app/</loc>
-    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zharmediablog.netlify.app/posts/</loc>
-    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zharmediablog.netlify.app/tags/struktur-data/</loc>
-    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zharmediablog.netlify.app/tags/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zharmediablog.netlify.app/tags/website/</loc>
